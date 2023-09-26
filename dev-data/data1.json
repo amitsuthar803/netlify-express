@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "date": 15,
+    "name": "Ramanlal",
+    "emi_start_date": "2022-4-15",
+    "no_of_emi": 20,
+    "rate_of_intrest": 2,
+    "total_loan_amount": 43400,
+    "emi": 2170
+  },
+  {
+    "id": 1,
+    "date": 15,
+    "name": "Lochan",
+    "emi_start_date": "2022-5-15",
+    "no_of_emi": 20,
+    "rate_of_intrest": 2,
+    "total_loan_amount": 50000,
+    "emi": 2775
+  },
+  {
+    "id": 2,
+    "date": 15,
+    "name": "Amit",
+    "emi_start_date": "2022-11-15",
+    "no_of_emi": 20,
+    "rate_of_intrest": 2,
+    "total_loan_amount": 20000,
+    "emi": 1110
+  },
+  {
+    "id": 3,
+    "date": 25,
+    "name": "Ramanlal_",
+    "emi_start_date": "2023-02-25",
+    "no_of_emi": 30,
+    "rate_of_intrest": 2,
+    "total_loan_amount": 80000,
+    "emi": 2966
+  },
+  {
+    "id": 4,
+    "date": 1,
+    "name": "Tulsi",
+    "emi_start_date": "2023-02-01",
+    "no_of_emi": 10,
+    "rate_of_intrest": 2,
+    "total_loan_amount": 50000,
+    "emi": 5500
+  },
+  {
+    "id": 5,
+    "date": 1,
+    "name": "Savita",
+    "emi_start_date": "2023-05-01",
+    "no_of_emi": 9,
+    "rate_of_intrest": 2,
+    "total_loan_amount": 50000,
+    "emi": 6055
+  },
+  {
+    "id": 6,
+    "date": 14,
+    "name": "amit",
+    "emi_start_date": "2022-12-14",
+    "no_of_emi": 15,
+    "rate_of_intrest": 2,
+    "total_loan_amount": 50000,
+    "emi": 4340
+  }
+]
